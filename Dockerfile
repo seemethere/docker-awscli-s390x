@@ -1,4 +1,4 @@
-FROM armhf/alpine:latest
+FROM s390x/alpine:latest
 
 RUN \
 	mkdir -p /aws && \
